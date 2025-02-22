@@ -166,7 +166,7 @@ In order to contribute to the `com.unity.cli-project-setup` package, do the foll
           ]
         ```
 
-If you've setup up everything correctly, you should now see the tests from the EditMode tab of the Unity editor test runner tab.
+If you've setup everything correctly, you should now see the tests from the EditMode tab of the Unity editor test runner tab.
 
 ## Testing changes
 This package is used broadly across Graphics and XR testing. Following is a procedure for verifying changes and keeping broader support in mind.
